@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm akshay bhanderi</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’ve recently finished working on [akkarbakkar](akkarbakkar.com)
+- 🔭 I’ve recently finished working on [laravel based blogging platform akkarbakkar](akkarbakkar.com)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/akshay-bhanderi/](https://www.linkedin.com/in/akshay-bhanderi/)
+- 👨‍💻 Recent projects are available on my [linkedin profile](https://www.linkedin.com/in/akshay-bhanderi/)
 
 - 💬 Ask me about **php, codeigniter, digital ocean, AWS, JS or Marvel Universe**
 
