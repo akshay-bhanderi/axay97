@@ -20,5 +20,4 @@
 <a href="https://www.behance.net/axaycomin2a26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="axaycomin2a26" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axay97&label=Profile%20views&color=0e75b6&style=flat" alt="axay97" /> </p>
